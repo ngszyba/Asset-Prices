@@ -9,4 +9,5 @@
 * Gold, so called wealth preserving asset, has disappointed with its weak performance. With the increasing inflation it has effectively lost its value.
 * Bitcoin has clearly outperformed the other assets. Also transaction volumes consistently increase as crypto markets attract more users. It is not given that this increase will continue, as this asset has a relatively short history to track (since 2009). 
 * In order to take advantage of Bitcoin's performance one could allocate small percentage of portfolio to this asset for a long term investment. This allocation needs to be closely tracked as in a relatively short time Bitcoin can rise into a big part of this portfolio. A rebalancing might be necessary if a small exposure to Bitcoin is desired. 
+***
 ![](/Assets.png)
