@@ -1,5 +1,5 @@
 ## Asset-Prices
-### Project 2: Should your fund invest in Bitcoin?
+### Project 3: Should your fund invest in Bitcoin?
 ***
 * I have analyzed price changes in price of assets used in conventional portfolios versus major Cryptocurrency asset - Bitcoin.
 * Daily high prices are pre-normalized and performance of index fund S&P500, Gold and Bitcoin are compared over recent years.
